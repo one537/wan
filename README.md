@@ -1,2 +1,1 @@
-# wan
-Indo
+#README.md
